@@ -1,0 +1,17 @@
+{
+  "name": "kc-stage6task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/omotega/kc-stage6task.git",
+  "author": "omotega <tomoyibo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
